@@ -1,0 +1,197 @@
+* {
+	font-family: 'Arial';
+}
+
+.tomLogo {
+	text-align: center;
+	position: relative;
+	background-color: #01f9f2;
+	border: #f9018a solid;
+	border-radius: 30px 30px 0 0;
+
+
+}
+
+img {
+	text-shadow: 4px 4px 4px #696969;
+
+}
+
+form {
+	text-align: center;
+	background-color: #dbf458;
+	border-radius: 0 0 30px 30px;
+	margin: 0;
+	padding: 20px 0;
+	border: #f9018a solid;
+
+}
+
+form button {
+	background-color: #01f9f2;
+	color: #f9018a;
+	padding: 15px 30px;
+	font-size: 15px;
+	border: 2px solid #f9018a;
+	border-radius: 0 30px 30px 0;
+	font-family: 'Amatic SC';
+
+}
+
+form input {
+	border: 2px solid #f9018a;
+	border-radius: 30px 0 0 30px;
+	font-family: 'Amatic SC';
+
+}
+
+.petName {
+	padding: 15px 30px;
+	font-size: 15px;
+	text-align: center;	
+}
+
+h1 {
+	background-color: #01b9ff;
+	color: #dbf458;
+	font-family: 'Amatic SC';
+	font-size: 75px;
+	text-shadow: 4px 4px 4px #696969;
+	text-align: center;
+	padding: 20px 0;
+	margin: 0;
+
+}
+
+h4 {
+	text-decoration: bold;
+	display: inline-block;
+	margin: 20px 65px;
+	font-family: 'Amatic SC', thick;
+	font-size: 20px;
+}
+
+ul {
+	font-size: 20px;
+	list-style-type: none;
+
+}
+
+li {
+	font-family: 'Amatic SC';
+}
+
+.rip {
+	text-align: center;
+}
+
+.rip img {
+	text-align: center;
+	max-width: 500px;
+	max-height: auto;
+}
+
+.wrapper {
+	display: flex;
+}
+.wrapper ul {
+	flex: 0 0 65%;
+}
+
+.wrapper .tomagotchi {
+	flex: 1;
+}
+
+.tomagotchi {
+	max-height: 50%;
+	text-align: center;
+	position: relative;
+}
+
+.tomagotchi img {
+	max-height: 175px;
+	position: relative;
+}
+
+.welcome {
+	text-align: center;
+	padding: 50px 0 50px 0;
+	position: relative;
+	max-height: 250px;
+}
+.welcome img {
+	max-height: 250px;
+}
+
+
+
+.timeStats {
+	text-align: center;
+}
+
+.gameButtons {
+	text-align: center;
+	padding: 50px 0;
+	margin: 40px 40px 0 40px;
+/*	display: inline;*/
+}
+.gameButtons button {
+	display: inline-flex;
+	border: 2px solid #dbf458;
+	background-color: #01f9f2;
+	border-radius: 30px;
+	color: #f9018a;
+	padding: 15px 30px;
+	font-family: 'Amatic SC';
+	font-size: 15px;
+/*	display: inline-flex;*/
+
+
+}
+
+footer {
+	text-align: center;
+	font-size: 8px;
+	text-decoration: thick;
+	background-color: gray;
+	color: #dbf458;
+	padding: 17px;
+	margin: 0;
+/*	position: absolute;*/
+	bottom: 0;
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
